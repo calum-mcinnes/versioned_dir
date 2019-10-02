@@ -27,8 +27,8 @@ This will open up your text editor (e.g. nano if you set that earlier), and will
 #
 #   new file:   README.md
 #
-This text provides a record of everything that has changed, that is now going to be recorded. In this case, the change is that a new file has been added, called README.md. Note that there is space at the top for you to add some text, which will act as a “commit message”. This should be a human-readable description of the change, e.g. please type
-Added the file README.md so that we have an initial file to
+This text provides a log  of everything that has changed, that is now going to be recorded. In this case, the change is that a new file has been added, called README.md. Note that there is space at the top for you to add some text, which will act as a “commit message”. This should be a human-readable description of the change, e.g. please type
+Added the file README.md so that we have an final  file to
 play with in Git
 
 # Please enter the commit message for your changes. Lines starting
